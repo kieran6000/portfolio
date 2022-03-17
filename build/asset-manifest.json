@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a8363f3.css",
+    "main.js": "/static/js/main.ea9d121f.js",
+    "static/media/powers.png": "/static/media/powers.dd3438cc11dcb9d8ab00.png",
+    "static/media/rbxhive.svg": "/static/media/rbxhive.440c1b9bcb4bed70ddbf7ba37020a38e.svg",
+    "static/media/rblxheaven.svg": "/static/media/rblxheaven.107e8ed4acffab319fdb6b788b80ae59.svg",
+    "static/media/mysql.svg": "/static/media/mysql.4e6fc76860c30ade009df8b119c7eaa5.svg",
+    "static/media/php.svg": "/static/media/php.48967cb75efd0b3bf3df7ab52b39cb6e.svg",
+    "static/media/scss.svg": "/static/media/scss.8aa78a8393470431c8036541f0708bd7.svg",
+    "static/media/ibot.svg": "/static/media/ibot.e10ec74383d14d897ff85c34ebf0bb99.svg",
+    "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/photoshop.svg": "/static/media/photoshop.2fb52ad3d537a88f908eb3c5e45a2737.svg",
+    "static/media/illustrator.svg": "/static/media/illustrator.c261bb694ce5053207132bbb1909554e.svg",
+    "static/media/wordpress.svg": "/static/media/wordpress.e4634128c32a2ae7ddf790fb47bef873.svg",
+    "static/media/premiere.svg": "/static/media/premiere.3572804ff36a50f1fc689116a32f7140.svg",
+    "static/media/javascript.svg": "/static/media/javascript.a01e052b9c17e3d56ab8c464f41e33c7.svg",
+    "static/media/css3.svg": "/static/media/css3.a79b97e79096bb163edb3f2ec6de4824.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/html.svg": "/static/media/html.079afa10d716571b3fa5327370e66439.svg",
+    "static/media/xd.svg": "/static/media/xd.fc74e80f11a966f4f923ae5f33e7ac38.svg",
+    "static/media/figma.svg": "/static/media/figma.753c074260c28fd2c006e8a0bb5bdfe2.svg",
+    "static/media/tailwindcss.svg": "/static/media/tailwindcss.017e1e304e12384d156d384f40a4b5f8.svg",
+    "index.html": "/index.html",
+    "static/media/bg-overlay.svg": "/static/media/bg-overlay.8d953c3759b2570bb1dd.svg",
+    "static/media/logo.svg": "/static/media/logo.316664369d9b79e9a70003c3a4b2df75.svg",
+    "main.6a8363f3.css.map": "/static/css/main.6a8363f3.css.map",
+    "main.ea9d121f.js.map": "/static/js/main.ea9d121f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8363f3.css",
+    "static/js/main.ea9d121f.js"
+  ]
+}
